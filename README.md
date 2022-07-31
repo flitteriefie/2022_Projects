@@ -10,3 +10,7 @@ Some projects I have been working on in my free time.
 
 ✨[Does CSOK have a statistically significant effect  on Hungarian birth rates?](https://github.com/flitteriefie/2022_Projects/blob/main/Hypothesis%20Testing%20for%20CSOK.ipynb):
 Short project to see if we can see a statistically significant effect of CSOK on birth rates. Running some simple statistical test and data cleaning activities.
+
+✨[Querying the EIA APi for data and creating an SQLite database](✨[Simple Access DB query and dataframe creating](https://github.com/flitteriefie/2022_Projects/blob/main/Natural%20Gas%20Prices.ipynb)
+
+✨[Simple Access DB query and dataframe creating](https://github.com/flitteriefie/2022_Projects/blob/main/Acces_Connection.ipynb)
