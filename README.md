@@ -20,3 +20,5 @@ Running some simple statistical test and data cleaning activities.
 
 ✨[What is the connection between GDP and attainment of at least a Bachelor's degree?](https://github.com/flitteriefie/2022_Projects/blob/main/GDP%20and%20Bachelor's.ipynb)
 
+✨[ARIMA Timeseries Forecasting model of EUR - HUF exchange rate](https://github.com/flitteriefie/2022_Projects/blob/main/Arima%20Model%20EurHuf.ipynb)
+
